@@ -7,4 +7,4 @@ Implementation of Andrej Karpathy's micrograd
 3. [The `Value` Class](./implementations/03.ipynb)
 4. [Visualizing the `Value` class](./implementations/04.ipynb)
 5. [Manual Backpropogation](./implementations/05.ipynb)
-
+6. [Small Preview of applying backprop to a neuron](./implementations/06.ipynb)
